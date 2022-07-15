@@ -1,0 +1,68 @@
+What is the definition of abstraction?
+
+    Abstraction is the process of turning
+    complex ideas into simple ones. It is
+    removing characteristics from something
+    so that only the essential ones remain.
+
+What is an object?
+
+    An object is a conceptual model for a category
+    of things, real or imagined, that has a specific
+    responsibility within our program.
+
+What three elements does an object have?
+
+    Responsibility, state, behaviour.
+
+What is a class?
+
+    A template for an object.
+
+What is a method?
+
+    behaviours of an object translated into functions.
+
+What is a constructor?
+
+    A function/method that defines the initial state of an object.
+
+What is an attribute?
+
+    The state of an object translated into variables.
+
+What is an instance?
+
+    The realization of attributes and methods in the computer's memory.
+
+What is the syntax for defining a class?
+
+    class className
+
+What is the syntax for defining a constructor?
+
+    def __init__(self):
+
+What is the syntax for defining a method?
+
+    def methodName(self):
+
+What is the syntax for defining an attribute?
+
+    self.attribute = ''
+
+What is the syntax for creating an instance of a class?
+
+    (variable =) className()
+
+What is the syntax for accessing an attribute?
+
+    variable.attribute = value
+
+What is the syntax for invoking a method?
+
+    variable.methodName()
+
+What is alternative meaning for the word object?
+
+    Reference to an instance of a class.

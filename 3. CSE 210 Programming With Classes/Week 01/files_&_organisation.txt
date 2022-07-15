@@ -1,0 +1,81 @@
+What is the file system?
+    A hierarchal structure of folders and files
+
+Why is understanding the file system important?
+    It will allow for better organisation of filas
+    and folders which will in turn make it easier to
+    locate said files or folders. It will also help
+    one become familiar learning how to locate files
+    and folders.
+
+What does the "pwd" command do?
+    It stands for "print working directory" and
+    shows the current working directory the user is in.
+
+What does the "cd" command do?
+    Stands for "change directory" and moves from
+    the current directory into a user-specified
+    folder/directory.
+
+What is a relative file path?
+    A file/folder path/location in relation to
+    the location of a currently accessed file/folder.
+
+What is an absolute file path?
+    The entire or complete path to a currently accessed
+    file/folder, meaning every directory to which the current
+    file or folder is located.
+    c:\users\user\python\python310
+
+What does a single period mean in a file path?
+    The currently accessed folder/directory
+
+What does a double period mean in a file path?
+    The parent folder/directory.
+
+What is a version control system?
+    A VCS is a system that tracks the history of changes
+    that developers may make to collaborative projects.
+
+What are the benefits of using version control systems?
+    Previous versions of projects can be recovered at any time.
+    Which changes were made, who made them, when they were made
+    and why changes were needed can be reviewed, which increases
+    team alignment when working independently. Also give each
+    contributor a unified and consistent view of the project.
+    Each individual also has a copy of the project in DVCSs.
+
+What is a repository?
+    An entire collection of files and folders for a single project.
+    Also called a Git project.
+
+What is the difference between Git and Github?
+    Git is a distributed version control system (DVCS).
+    Github hosts Git repositories and provides dev tools to help
+    make coding projects much more convenient and easier.
+
+What does the "git init" command do?
+    Initialises a brand new Git repository and begins tracking
+    an existing directory. It adds a hidden subfolder within
+    the existing directory that houses the internal data
+    structure required for version control.
+
+What does the "git clone" command do?
+    creates a local copy of a project that already exists
+    remotely. The clone includes all the project's files, 
+    history, and branches.
+
+What does the "git add" command do?
+    The first part of a 2-step process to include snapshots
+    in the history of changes made to a project in an effort
+    to track the changes made. This command performs the
+    staging portion of this process.
+
+What does the "git commit" command do?
+    The second part of the 2-step process to include snapshots
+    in the history of changes made to a project n an effort
+    to track the changes made. This command takes a snapshot of
+    the staged snapshot and saves it to the project history.
+
+What does the "git status" command do?
+    Shows the status of changes as untracked, modified, or staged.

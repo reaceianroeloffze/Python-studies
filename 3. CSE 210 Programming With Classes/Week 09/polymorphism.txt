@@ -1,0 +1,36 @@
+What is the definition of polymorphism?
+
+    Polymorphism is the ability to take on
+    many forms. More specifically, it is the
+    ability of a child class to change the
+    behavior in a method inherited from a
+    parent class. The method name stays the
+    same but the specific code varies.
+
+What are the benefits of polymorphism?
+
+    Modifying programs is greatly minimised
+
+What is method overriding?
+
+    Modifying the behavior of a class method
+
+What is the syntax for overriding a method?
+
+    One simply needs to redefine a method in a class
+    inheriting another class to override a method.
+
+What is an interface?
+
+    Special classes containing empty or no public methods
+    that derived or child classes provide.
+
+Why is the interface so important?
+
+    It allows for an infinite amount of class derivations
+    to be given the same capability witout worrying about
+    implemtentation of those classes and methods first.
+
+What is the syntax for creating an interface?
+
+    A class with no or empty public method bodies.

@@ -1,0 +1,39 @@
+What is the definition of encapsulation?
+
+    Encapsulation is the act of enclosing something,
+    as if it were in a capsule. It is hiding the
+    details of something so that other code can't see or
+    manipulate them. More to the point, it is hiding the
+    sources of change.
+
+What are the benefits of encapsulating classes?
+
+    allow us to minimize the interdepencies between
+    different parts of our code and protect them from
+    breaking changes.
+
+What is an access modifier?
+
+    Special keywords that specify which attributes and
+    methods are public or private.
+
+What is the syntax for applying access modifiers?
+
+    putting an underscore in front of the called attribute
+    or method.
+
+What is a getter?
+
+    A method that gets an attribute name.
+
+What is a setter?
+
+    A method that sets an attribute name.
+
+What is the syntax for specifying a getter?
+
+    def get_something()
+
+What is the syntax for specifying a setter?
+
+    def set_something()

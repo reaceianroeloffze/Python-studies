@@ -1,0 +1,37 @@
+What is the definition of inheritance?
+
+    Inheritance is the acquisition of attributes
+    and methods through descendancy. In other words,
+    inheritance is the mechanism by which one class
+    obtains the attributes and methods of another class
+    automatically or without having to type them.
+
+What are the benefits of inheriting from a class?
+
+    Being able to invoke a method in an instance of a class
+    even though the method is not defined in that class.
+
+What is a superclass?
+
+    It is the parent class; the class that calls
+    the subclass.
+
+What is a subclass?
+
+    The child class; the class that the superclass
+    inherits.
+
+How do you invoke a superclass constructor?
+
+    def __init__(self, var):
+        super().__init__(var)
+
+How do you invoke a superclass behavior?
+
+    var = super().get_number()
+
+What is the danger of overusing inheritance?
+
+    It can be extrememly difficult and time consuming
+    to inspect a long inheritance hierarchy just to
+    understand a single class at the bottom.

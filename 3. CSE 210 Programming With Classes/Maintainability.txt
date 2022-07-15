@@ -1,0 +1,24 @@
+What does maintainability mean?
+
+    The ease with which a software
+    system or component can be modified
+    to correct faults, improve performance
+    or other attributes, or adapt to a
+    changed environment.
+
+Why is maintainability important?
+
+    It saves time on projects and allows the
+    quality of the software to always be at its peak.
+
+Why do we sometimes neglect it?
+
+    Pressure from clients, deadlines, temptation to
+    cut corners.
+
+How can we develop maintainable software?
+
+    Creating well-encapsulated abstractions which are
+    easy to understand, using inheritance and polymorphism
+    in way that will reduce or eliminate refactioring when adding
+    new code.

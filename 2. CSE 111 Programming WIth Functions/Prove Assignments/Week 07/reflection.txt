@@ -1,0 +1,32 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+    Writing the unfinished multiplayer game for this week. Functions really
+    came to power there, including the multiplicity of uses they had, like
+    being called as a method for example, and what kind of functions there
+    are, like threaded functions. It was amazing to take everything I learned
+    this semester and see it all come together in that assignment. I love
+    working with functions and I especially love functional and object-oriented
+    programming. This project made me really learn to like, love and appreciate
+    both and want to pursue them further.
+
+2. In your judgment, what is the value of test functions?
+
+    Since I haven't been exposed to text functions all that much and have neither
+    written so many it's still a fairly new concept to grasp and its potential is
+    still unknown to me. I'd like to become more familiar with writing test functions
+    and how diverse test functions can be. But all in all, the value I've seen so far
+    is that they can provide reassurance that your code is working and help you improve
+    your programming greatly.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+    I'm still in the habit of running my code first before debugging it or writing
+    test functions. After altering my code and I still pick up errors I'll either
+    use the debugger or I'll outsource, like ask for help or google it, if I know
+    what to google. I could improve by getting more familiar with writing test
+    functions and by using the debugger more.
